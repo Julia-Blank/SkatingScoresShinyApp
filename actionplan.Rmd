@@ -1,0 +1,21 @@
+---
+title: "notes"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Organize data
+graph pcs vs. total segment score
+create new column where it tests if judge country = skater country
+find the average score of when a judge and competitor are from the same country and when they are not 
+when judge is from same country, are the scores higher. graph of estimated posterior? when skater and judge are from same country 
+create a scores spreadsheet with judge, judge country, skater program, skater country, individual scores of the judges, 
+- to do this:
+- join by aspect id
+- figure out who each of these judges are
+
+looking at individual bias by judge 
